@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive\\OneDrive - mail.hamastar.com.tw\\專案\\GraphAPI_Delegate\\GraphAPI_Delegate\\GraphAPI_Delegate.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive\\OneDrive - mail.hamastar.com.tw\\專案\\GraphAPI_Delegate\\GraphAPI_Delegate\\GraphAPI_Delegate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\OneDrive - mail.hamastar.com.tw\\專案\\GraphAPI_Delegate\\GraphAPI_Delegate\\GraphAPI_Delegate.csproj",
+        "projectName": "GraphAPI_Delegate",
+        "projectPath": "D:\\OneDrive\\OneDrive - mail.hamastar.com.tw\\專案\\GraphAPI_Delegate\\GraphAPI_Delegate\\GraphAPI_Delegate.csproj",
+        "packagesPath": "C:\\Users\\bafortingbin.STARGROUP\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\OneDrive - mail.hamastar.com.tw\\專案\\GraphAPI_Delegate\\GraphAPI_Delegate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bafortingbin.STARGROUP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.hamastar.com.tw/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Microsoft.Identity.Web.UI": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.15.0, )"
+            },
+            "System.CodeDom": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

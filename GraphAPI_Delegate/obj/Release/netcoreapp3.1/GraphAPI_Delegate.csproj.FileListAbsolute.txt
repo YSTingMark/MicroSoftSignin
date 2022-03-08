@@ -1,0 +1,137 @@
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.exe
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.deps.json
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.runtimeconfig.json
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.runtimeconfig.dev.json
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.pdb
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.Views.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.Views.pdb
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Azure.Identity.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Certificates.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Graph.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Graph.Core.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Web.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Web.Certificate.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Web.MicrosoftGraph.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Web.UI.Views.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Web.UI.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Validators.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.csproj.AssemblyReference.cache
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.AssemblyInfoInputs.cache
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.AssemblyInfo.cs
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.RazorAssemblyInfo.cache
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.RazorAssemblyInfo.cs
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\staticwebassets\GraphAPI_Delegate.StaticWebAssets.Manifest.cache
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\staticwebassets\GraphAPI_Delegate.StaticWebAssets.xml
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\scopedcss\bundle\GraphAPI_Delegate.styles.css
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.TagHelpers.input.cache
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.TagHelpers.output.cache
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.RazorCoreGenerate.cache
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\MicroSoft\Index.cshtml.g.cs
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.RazorTargetAssemblyInfo.cache
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.RazorTargetAssemblyInfo.cs
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.Views.pdb
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.csproj.CopyComplete
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.dll
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.pdb
+C:\Users\bafortingbin.STARGROUP\source\repos\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.genruntimeconfig.cache
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\appsettings.json
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.exe
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.deps.json
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.runtimeconfig.json
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.pdb
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.Views.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\GraphAPI_Delegate.Views.pdb
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Azure.Core.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Azure.Identity.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Certificates.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Web.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Web.UI.Views.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.Identity.Web.UI.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\RestSharp.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.AssemblyInfo.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.RazorAssemblyInfo.cache
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.RazorAssemblyInfo.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\staticwebassets\GraphAPI_Delegate.StaticWebAssets.Manifest.cache
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\staticwebassets\GraphAPI_Delegate.StaticWebAssets.xml
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\scopedcss\bundle\GraphAPI_Delegate.styles.css
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.TagHelpers.input.cache
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.TagHelpers.output.cache
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.RazorCoreGenerate.cache
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\MicroSoft\Index.cshtml.g.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.RazorTargetAssemblyInfo.cache
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.RazorTargetAssemblyInfo.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.Views.pdb
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.csproj.CopyComplete
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.pdb
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.genruntimeconfig.cache
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\Razor\Views\Home\SuccessSignin.cshtml.g.cs
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\bin\Release\netcoreapp3.1\System.CodeDom.dll
+D:\OneDrive\OneDrive - mail.hamastar.com.tw\專案\GraphAPI_Delegate\GraphAPI_Delegate\obj\Release\netcoreapp3.1\GraphAPI_Delegate.csproj.AssemblyReference.cache
